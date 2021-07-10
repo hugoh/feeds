@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.telerama.fr/music/musique_dernierescritiques.php</id>
     <title>Les critiques disques de Télérama</title>
-    <updated>2021-07-09T17:44:01.681Z</updated>
+    <updated>2021-07-10T05:36:37.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.telerama.fr/favicon.ico</icon>
     <entry>
@@ -239,6 +239,10 @@
     <h2 class="t12-crilst-tit">
       <a href="https://www.telerama.fr/musiques/embruxo,n6908816.php">Baiuca - Embruxo</a>    </h2>
 
+          <p class="t12-crilst-note" id="note_n6908816">
+        La note des internautes
+        <img src="https://www.telerama.fr/sites/tr_master/themes/tr/html/images/sprites/star-2012-jaune.png" alt="" width="15" height="15" border="0"><img src="https://www.telerama.fr/sites/tr_master/themes/tr/html/images/sprites/star-2012-jaune.png" alt="" width="15" height="15" border="0"><img src="https://www.telerama.fr/sites/tr_master/themes/tr/html/images/sprites/star-2012-jaune.png" alt="" width="15" height="15" border="0"><img src="https://www.telerama.fr/sites/tr_master/themes/tr/html/images/sprites/star-2012-jaune.png" alt="" width="15" height="15" border="0"><img src="https://www.telerama.fr/sites/tr_master/themes/tr/html/images/sprites/star-2012-jaune.png" alt="" width="15" height="15" border="0">        (1 note)
+      </p>
     
     <p class="t12-crilst-txt">
       La folktronica est l’art de l’immersion dans un folklore ancestral sur la piste d’un dancing, d’un club. Tête de proue du genre en Espagne, le producteur et DJ madrilène Alexandro Guillàn, aka Baiuca, n’a pas été le premier à s’y ­frotter, mais il est bien le seul à s’enraciner dans sa Galice nat...    </p>
